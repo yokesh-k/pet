@@ -1,0 +1,4 @@
+com\itvedant\petstore\entities\Product.class
+com\itvedant\petstore\PetstoreApplication.class
+com\itvedant\petstore\services\ProductService.class
+com\itvedant\petstore\controllers\ProductController.class
